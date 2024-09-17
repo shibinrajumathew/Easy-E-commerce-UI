@@ -1,4 +1,4 @@
-In the project directory, you can run:
+Easy e-commerce - ready to build template for e-commerce 
 
 ### `npm start`
 
